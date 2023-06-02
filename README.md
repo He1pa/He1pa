@@ -1,4 +1,4 @@
-### Rewrite in Rust! 🦀
+### Rewrite It In Rust! 🦀
 
 <!--
 **He1pa/He1pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

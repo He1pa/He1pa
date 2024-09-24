@@ -1,5 +1,6 @@
-### Rewrite It In Rust! 🦀
+Rewrite It In Rust! 🦀
 
+Contect me via he1pa404@gmail.com
 <!--
 **He1pa/He1pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![An image of @he1pa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/he1pa)](https://holopin.io/@he1pa)

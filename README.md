@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
 [![An image of @he1pa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/he1pa)](https://holopin.io/@he1pa)
+-->

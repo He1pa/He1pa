@@ -1,4 +1,4 @@
-Rewrite It In Rust! 🦀
+`He1pa`, also writen as `heipa`, is the Pinyin of "黑怕". Its pronunciation in Chinese sounds similar to `hippop`
 
 Contact me via he1pa404@gmail.com
 <!--

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+Rewrite it in Rust!
 <!--
 [![An image of @he1pa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/he1pa)](https://holopin.io/@he1pa)
 -->

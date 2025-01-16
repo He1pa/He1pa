@@ -1,5 +1,4 @@
-`He1pa`, also writen as `heipa`, is the Pinyin of "黑怕". Its pronunciation in Chinese sounds similar to `hippop`
-
+Rewrite it in Rust!
 Contact me via he1pa404@gmail.com
 <!--
 **He1pa/He1pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Rewrite it in Rust!
+
 <!--
 [![An image of @he1pa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/he1pa)](https://holopin.io/@he1pa)
 -->

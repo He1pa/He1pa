@@ -1,4 +1,4 @@
-Rewrite it in Rust!
+Write the code, change the world
 
 
 Contact me via he1pa404@gmail.com
